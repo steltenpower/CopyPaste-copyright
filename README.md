@@ -1,2 +1,5 @@
 # copyPasteThatUnderstandsCopyright
-Maybe more people properly mention licences, when it is less hassle
+Maybe more people properly mention licences, when it is less hassle.
+On an OS, webbrowser or JavaScript library level I'm wondering how far this idea can be taken
+
+It would also detect when licences (of content you're using and of that you're creating) are incompatible
