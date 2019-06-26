@@ -6,4 +6,4 @@ It would also detect when licences (of content you're using and of that you're c
 
 Of course this complex subject can't be fixed/replaced by a piece of software, but certainly 'significantly helped' should be possible.
 
-Maybe https://wiki.creativecommons.org/wiki/Web_Integration can help a bit
+Maybe https://wiki.creativecommons.org/wiki/CC_REL , https://wiki.creativecommons.org/wiki/Web_Integration , https://wiki.creativecommons.org/wiki/XMP_Implementations can help a bit
