@@ -5,3 +5,5 @@ On an OS, webbrowser or JavaScript library level I'm wondering how far this idea
 It would also detect when licences (of content you're using and of that you're creating) are incompatible
 
 Of course this complex subject can't be fixed/replaced by a piece of software, but certainly 'significantly helped' should be possible.
+
+Maybe https://wiki.creativecommons.org/wiki/Web_Integration can help a bit
