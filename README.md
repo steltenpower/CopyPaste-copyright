@@ -8,3 +8,5 @@ Of course this complex subject can't be fixed/replaced by a piece of software, b
 
 
 Maybe https://wiki.creativecommons.org/wiki/CC_REL , https://wiki.creativecommons.org/wiki/Web_Integration , https://wiki.creativecommons.org/wiki/XMP_Implementations can help a bit
+
+This was mentioned to the top developer at CreativeCommons, but without reply :-(
