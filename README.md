@@ -1,4 +1,5 @@
 # copyPasteThatUnderstandsCopyright
+![](https://repository-images.githubusercontent.com/151335850/75306700-bc3f-11eb-873c-a20b77423bbe)
 Maybe more people properly mention licences, when it is less 'hassle'.
 On an OS, webbrowser or JavaScript library level I'm wondering how far this idea can be taken: Copy-Paste that (partially) understands copyright.
 
