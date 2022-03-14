@@ -12,4 +12,6 @@ Maybe https://wiki.creativecommons.org/wiki/CC_REL , https://wiki.creativecommon
 
 This was mentioned to the top developer at CreativeCommons, but without reply :-(
 
-Btw: There are now 'emoji' for the different Creative Commons licences
+Btw: There are now 'emoji' for the different Creative Commons licences: https://en.wikipedia.org/wiki/Creative_Commons_license#Unicode_symbols
+
+Inkscape is so much better with working grid detection, and clipart which tells you the license when you import them: https://www.youtube.com/watch?v=GRbA5mGChCU
